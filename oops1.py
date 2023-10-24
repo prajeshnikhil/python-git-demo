@@ -1,15 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 15:33:27 2021
-
-@author: pradeepa
-
-__init()__ is an initializer
-not a constructor
-
-self can be compared with this in java,c++,javascript
-"""
 
 class Flight:
     def __init__(self,number,aircraft):
